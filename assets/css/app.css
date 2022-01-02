@@ -1,0 +1,7 @@
+main {
+    height: 100vh;
+}
+
+main form {
+    min-width: 400px;
+}
